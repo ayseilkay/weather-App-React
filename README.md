@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 # Weather App developed with React
-Simple HTML Linked-in clone made with Bootstrap.
+
 
 
 
